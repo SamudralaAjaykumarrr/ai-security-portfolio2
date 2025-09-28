@@ -8,7 +8,7 @@ Reproducible demos that break and defend ML models. Focus: Adversarial ML, Data 
 - Projects (folder): `/project-mnist`, `/project-poisoning`, `/capstone`
 - Blog: short writeups & lessons learned
 - Resume: `resume_ai_security.pdf`
-- Contact: LinkedIn — <linkedin.com/in/samudrala-ajay-kumar-668065230>
+- Contact: LinkedIn — linkedin.com/in/samudrala-ajay-kumar-668065230
 
 ## Quick start (Day 1 → Day 3)
 Prereqs: Python 3.10+, git, (docker optional)
@@ -25,4 +25,4 @@ Prereqs: Python 3.10+, git, (docker optional)
 - `/notes` — NIST RMF summary, papers, reading notes
 
 ## Contact
-LinkedIn: <linkedin.com/in/samudrala-ajay-kumar-668065230>
+LinkedIn: linkedin.com/in/samudrala-ajay-kumar-668065230
